@@ -1,11 +1,10 @@
-<!-- ![](https://img.shields.io/badge/Microverse-blueviolet) -->
-![This is an image](./image/IMG_3445.jpeg)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 #  Microverse' Hello Project
 
 > This project is my first project at Microverse and it aims at making me understand the Github flow, proper documentation of project professionally, adding a .gitignore file, setting up linters for html and css, and even proper way of adding a README file.
 
 
-## Built by Olaoluwa Owoeye (Olamarx)
+## Built by Duke Dadson (DD)
 
 - HTML
 - CSS
@@ -18,12 +17,12 @@
 
 ## Author
 
-👤 **Owoeye Olaoluwa (Olamarx)**
+👤 **Duke Dadson (DD)**
 
-- GitHub: [@githubhandle](https://github.com/Olamarx)
-- Twitter: [@twitterhandle](https://twitter.com/Owoeye0laoluwa)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
-- Facebook: [Facebook](https://web.facebook.com/olaoluwa.owoeye.39)
+- GitHub: [@githubhandle]()
+- Twitter: [@twitterhandle]()
+- LinkedIn: [LinkedIn]()
+- Facebook: [Facebook]()
 
 
 ## 🤝 Contributing
