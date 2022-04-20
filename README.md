@@ -19,10 +19,10 @@
 
 👤 **Duke Dadson (DD)**
 
-- GitHub: [@githubhandle]()
+<!-- - GitHub: [@githubhandle]()
 - Twitter: [@twitterhandle]()
 - LinkedIn: [LinkedIn]()
-- Facebook: [Facebook]()
+- Facebook: [Facebook]() -->
 
 
 ## 🤝 Contributing
